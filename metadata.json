@@ -1,0 +1,6 @@
+{
+  "name": "Forma3D Studio",
+  "description": "Modelador 3D táctil para iPad y navegador con modos Objeto y Edición, topología editable real de vértices, aristas y caras, manipuladores 3D y almacenamiento local de proyectos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
